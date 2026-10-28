@@ -1,0 +1,3 @@
+"""
+PlantSathi AI API Routes
+"""
